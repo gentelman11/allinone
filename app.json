@@ -1,8 +1,8 @@
 {
-  "name": "torrent-aio-bot",
-  "description": "All in one bot for torrenting",
+  "name": "t-b",
+  "description": "All in one",
   "repository": "https://github.com/patheticGeek/torrent-aio-bot",
-  "keywords": ["node", "express", "bot", "torrent", "automation"],
+  "keywords": ["node", "express", "b", "t", "automation"],
   "builpacks": [
     { "url": "heroku/nodejs" },
     { "url": "https://github.com/jontewks/puppeteer-heroku-buildpack.git" }
