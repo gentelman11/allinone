@@ -1,5 +1,5 @@
 {
-  "name": "torrent-bot",
+  "name": "t-b",
   "version": "1.0.0",
   "description": "Torrent bot for downloading and searching torrents",
   "main": "index.js",
